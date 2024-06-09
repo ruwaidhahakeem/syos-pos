@@ -1,6 +1,5 @@
 package dao;
 
-import database.DatabaseConnection;
 import models.Item;
 import java.util.List;
 
@@ -11,3 +10,4 @@ public interface ItemDAO  {
     void updateItem(Item item);
     List<Item> getAllItems();
 }
+

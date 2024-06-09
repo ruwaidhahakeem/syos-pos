@@ -10,7 +10,6 @@ public interface WarehouseStockDAO {
     void updateWarehouseStock(WarehouseStock warehouseStock);
     void deleteWarehouseStock(String itemCode);
     List<WarehouseStock> getAllWarehouseStock();
-
-    List<WarehouseStock> getStockByExpiry(String itemCode);
-    List<WarehouseStock> getStockByArrival(String itemCode);
+    List<WarehouseStock> getStockByExpiry(String itemCode);  // This method already exists
 }
+

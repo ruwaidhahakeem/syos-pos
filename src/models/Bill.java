@@ -3,7 +3,7 @@ package models;
 import dao.*;
 import java.util.Date;
 import java.util.List;
-import strategy.*;
+
 
 
 public class Bill {
@@ -13,7 +13,6 @@ public class Bill {
     private double totalAmount;
     private double cashReceived;
     private double cashChange;
-    private PaymentStrategy paymentStrategy;
 
     public Bill(){
 
@@ -27,6 +26,7 @@ public class Bill {
         this.cashReceived = cashReceived;
         this.cashChange = cashChange;
     }
+
 
     //getters and setters
 
@@ -78,19 +78,5 @@ public class Bill {
         this.cashChange = cashChange;
     }
 
-    public PaymentStrategy getPaymentStrategy() {
-        return paymentStrategy;
-    }
 
-    public void setPaymentStrategy(PaymentStrategy paymentStrategy) {
-        this.paymentStrategy = paymentStrategy;
-    }
-
-    public void processPayments(){
-        if (paymentStrategy != null) {
-            paymentStrategy.payment(totalAmount);
-        } else {
-            throw new IllegalStateException("Please choose your Payment Method");
-        }
-    }
 }

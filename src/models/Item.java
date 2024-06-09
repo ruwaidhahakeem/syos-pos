@@ -20,7 +20,7 @@ public abstract class Item {
 
     public Item() {}
 
-    // Getters and setters
+    // getters and setters
     public String getItemCode() {
         return itemCode;
     }
