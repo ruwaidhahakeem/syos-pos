@@ -18,8 +18,6 @@ public abstract class Item {
         this.itemType = itemType;
     }
 
-    public Item() {}
-
     // getters and setters
     public String getItemCode() {
         return itemCode;

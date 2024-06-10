@@ -5,45 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="197c0319-ecab-40b8-b218-d932ede1f155" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/syos-pos/models/ConcreteItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/dao/BillItemDAOImplTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/tests/BillItemDAOImplTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/dao/BillDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/dao/BillDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/dao/BillItemDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/dao/BillItemDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/dao/InStoreStockDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/dao/InStoreStockDAOImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/syos-pos/dao/ItemDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/dao/ItemDAOImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/models/Bill.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/models/Bill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/report/allBills.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/report/allBills.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/report/availableStock.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/report/availableStock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/report/baseReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/report/baseReport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/report/reorder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/report/reorder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/report/reshelf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/report/reshelf.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/report/totalSaleForTheDay.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/report/totalSaleForTheDay.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/strategy/CardStrategyImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/strategy/CardStrategyImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/strategy/CashStrategyImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/strategy/CashStrategyImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/dao/WarehouseStockDAOImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/dao/WarehouseStockDAOImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/syos-pos/models/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syos-pos/models/Item.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/BillItemDAOImplTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/ItemDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/ItemDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/dao/ItemDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/ItemDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/WarehouseStockDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/WarehouseStockDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/WarehouseStockDAOImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/WarehouseStockDAOImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/factories/ItemConcreteFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/factories/ItemConcreteFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Bill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Bill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/database/DBConnectionPool.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/models/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Item.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/dairyAndMeat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/freshProduce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/packedGoods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/stockData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/report/allBills.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/report/availableStock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/report/baseReport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/report/reorder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/report/reportClasses/SaleData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/report/reshelf.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/report/totalSaleForTheDay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategy/CardStrategyImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategy/CashStrategyImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/strategy/PaymentStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/DBConnectionPoolTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/ItemFactoryTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tests/ReportTests.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,9 +28,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="JUnit5 &amp; Mockito" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -70,7 +44,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2h6TrcAfT99VzOyMxVr3GXbOe6h" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -87,14 +63,24 @@
     "JUnit.BillItemDAOImplTest.testAddBillWithValidData.executor": "Run",
     "JUnit.DBConnectionPoolTest.executor": "Coverage",
     "JUnit.DBConnectionPoolTest.testCheckAvailableConnections.executor": "Run",
+    "JUnit.ItemFactoryTest (1).executor": "Run",
+    "JUnit.ItemFactoryTest.CreateItemWithUniqueItemCodeAndBatchCode.executor": "Run",
+    "JUnit.ItemFactoryTest.CreateTinnedGoods.executor": "Run",
+    "JUnit.ItemFactoryTest.NegativePrice.executor": "Run",
     "JUnit.ItemFactoryTest.NoPrice.executor": "Run",
     "JUnit.ItemFactoryTest.createItem.executor": "Run",
     "JUnit.ItemFactoryTest.dairyAndMeatItem.executor": "Run",
+    "JUnit.ItemFactoryTest.duplicateValues.executor": "Run",
     "JUnit.ItemFactoryTest.emptyBatchCode.executor": "Run",
     "JUnit.ItemFactoryTest.emptyValues.executor": "Run",
-    "JUnit.ItemFactoryTest.executor": "Coverage",
+    "JUnit.ItemFactoryTest.executor": "Run",
     "JUnit.ItemFactoryTest.freshProduceItem.executor": "Coverage",
     "JUnit.ItemFactoryTest.invalidItemType.executor": "Run",
+    "JUnit.ItemFactoryTest.testCreateItemWithDuplicateItemCodeAndBatchCode.executor": "Run",
+    "JUnit.ItemFactoryTest.testCreateItemWithUniqueItemCodeAndBatchCode.executor": "Run",
+    "JUnit.ItemFactoryTest.testCreateTinnedGoods.executor": "Run",
+    "JUnit.ItemFactoryTest.testCreateUnknownType.executor": "Run",
+    "JUnit.ItemFactoryTest.testNegativePrice.executor": "Run",
     "JUnit.ItemFactoryTest.zeroPrice.executor": "Run",
     "JUnit.MainTest.executor": "Run",
     "JUnit.MainTest.testMain.executor": "Run",
@@ -125,104 +111,112 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="models" />
       <recent name="dao" />
       <recent name="strategy" />
       <recent name="stratergy" />
       <recent name="report" />
-      <recent name="models" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="factories" />
       <recent name="database" />
       <recent name="report" />
-      <recent name="factories" />
       <recent name="dao" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="models" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="syos-pos" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DBConnectionPoolTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="syos-pos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.DBConnectionPoolTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ItemFactoryTest">
     <configuration name="ItemFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="syos-pos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="factories.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.ItemFactoryTest" />
+      <option name="PACKAGE_NAME" value="factories" />
+      <option name="MAIN_CLASS_NAME" value="factories.ItemFactoryTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ItemFactoryTest.CreateItemWithUniqueItemCodeAndBatchCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="syos-pos" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainTest.testMain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="syos-pos" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MainTest" />
-      <option name="METHOD_NAME" value="testMain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="factories" />
+      <option name="MAIN_CLASS_NAME" value="factories.ItemFactoryTest" />
+      <option name="METHOD_NAME" value="CreateItemWithUniqueItemCodeAndBatchCode" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reportTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ItemFactoryTest.DuplicateItemCodeAndBatchCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="syos-pos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="tests.*" />
+          <option name="PATTERN" value="factories.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.reportTests" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="factories" />
+      <option name="MAIN_CLASS_NAME" value="factories.ItemFactoryTest" />
+      <option name="METHOD_NAME" value="DuplicateItemCodeAndBatchCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemFactoryTest.testCreateUnknownType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="syos-pos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="factories" />
+      <option name="MAIN_CLASS_NAME" value="factories.ItemFactoryTest" />
+      <option name="METHOD_NAME" value="testCreateUnknownType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ItemFactoryTest.testNegativePrice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="syos-pos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="factories" />
+      <option name="MAIN_CLASS_NAME" value="factories.ItemFactoryTest" />
+      <option name="METHOD_NAME" value="testNegativePrice" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.MainTest" />
-        <item itemvalue="JUnit.MainTest.testMain" />
         <item itemvalue="JUnit.ItemFactoryTest" />
-        <item itemvalue="JUnit.DBConnectionPoolTest" />
+        <item itemvalue="JUnit.ItemFactoryTest.testCreateUnknownType" />
+        <item itemvalue="JUnit.ItemFactoryTest.CreateItemWithUniqueItemCodeAndBatchCode" />
+        <item itemvalue="JUnit.ItemFactoryTest.DuplicateItemCodeAndBatchCode" />
+        <item itemvalue="JUnit.ItemFactoryTest.testNegativePrice" />
       </list>
     </recent_temporary>
   </component>
@@ -248,9 +242,22 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLIntegrityConstraintViolationException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/syos_pos$ItemFactoryTest.ic" NAME="ItemFactoryTest Coverage Results" MODIFIED="1717778284922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
       <FILTER>tests.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/POS_SYOS$ItemFactoryTest.ic" NAME="ItemFactoryTest Coverage Results" MODIFIED="1718042496292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>factories.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/syos_pos$BillItemDAOImplTest_testAddBill.ic" NAME="BillItemDAOImplTest.testAddBill Coverage Results" MODIFIED="1717420176536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
       <FILTER>dao.*</FILTER>

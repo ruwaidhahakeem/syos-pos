@@ -23,7 +23,7 @@ public class DBConnectionPool {
             //a db connection pool is initialized when the class is loaded
 
             for (int i = 0; i < POOL_SIZE; i++) {
-            currentConnections.add(makeConnection());
+                currentConnections.add(makeConnection());
             }
         }catch (SQLException e){
             e.printStackTrace();
